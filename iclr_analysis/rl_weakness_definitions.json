@@ -1,0 +1,36 @@
+{
+    "reduced_categories": [
+        "Clarity",
+        "Novelty",
+        "Baseline and Comparison Limitations",
+        "Experimental Rigor",
+        "Methodological Strength",
+        "Theoretical Soundness",
+        "Practical Relevance",
+        "Scope and Generalization",
+        "Unverified Claims",
+        "Complexity and Scalability",
+        "Documentation and Presentation",
+        "Related Work Gaps",
+        "Efficiency Concerns",
+        "Assumption Transparency",
+        "Reproducibility Issues"
+    ],
+    "definitions": {
+        "Clarity": "How clear and understandable the paper is.",
+        "Novelty": "The originality and innovativeness of the research.",
+        "Baseline and Comparison Limitations": "Lack of sufficient baselines and comparative analysis with existing methods.",
+        "Experimental Rigor": "The thoroughness and reliability of experimental validation.",
+        "Methodological Strength": "The robustness and integration of the methods used.",
+        "Theoretical Soundness": "The degree to which the research is backed by solid theoretical justification.",
+        "Practical Relevance": "The applicability and impact of the research in real-world scenarios.",
+        "Scope and Generalization": "The breadth of the research's applicability and its ability to generalize to other contexts.",
+        "Unverified Claims": "Overstatements or assertions not backed by evidence.",
+        "Complexity and Scalability": "The manageability of the research's complexity and its scalability over larger datasets or environments.",
+        "Documentation and Presentation": "The quality and clarity of presentation, including all necessary details and explanations.",
+        "Related Work Gaps": "Lack of engagement or analysis with existing literature.",
+        "Efficiency Concerns": "Issues related to the computational or operational efficiency of proposed methods.",
+        "Assumption Transparency": "Clarity and justification of underlying assumptions made in the research.",
+        "Reproducibility Issues": "Challenges related to the ability to reproduce the results as indicated."  
+    }
+}

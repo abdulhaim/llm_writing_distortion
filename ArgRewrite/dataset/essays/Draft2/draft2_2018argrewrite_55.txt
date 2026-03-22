@@ -1,0 +1,38 @@
+Proponents of self-driving cars point to the benefits to those who are unable to drive due to a physical or mental disability, potential elimination of urban traffic, and an overwhelming reduction in collisions, injuries, and fatalities from driver error. However, there exist many groups of self-driving skeptics: those who argue the cost of self-driving technology is out of reach except for the very wealthy, those who are concerned of the potential for software bugs and even malicious hacking, and those who are simply concerned about the psychological effects of a driver handing control over a large machine to a computer. Any pragmatic, current consideration of self-driving cars will reach the conclusion that they are not currently viable as a replacement to our current infrastructure. 
+
+Perhaps the most compelling counterargument is one from critical mass. The benefits of self-driving cars, in terms of cost, time, and lives, are only noticeable when they're adopted to the point that human drivers are no longer in the majority. The issue here is the time it takes to reach that critical point. The cost of self-driving cars, even when tempered by economies of scale, is still significant enough to consider here.
+
+Let's do a cost-benefit analysis: even the most hardened skeptic would have to agree that the economic cost of self-driving car adoption would be worth it to reduce the approximately 40,000 deaths due to automobiles. However, this analysis does not tell the full picture. The cost will be incurred largely up-front: businesses changing their shipping fleets to self-driving cars, manufacturers changing their workflows and machinery, and individual car-buyers purchasing a self-driving car for personal gain, rather than higher-minded societal ideals.
+
+The benefit, however, is more tenuous. The largest benefits in speed, convenience, and safety come when the majority of cars on the road are self-driving. For example, a self-driving, networked city has no need for traffic lights: the cars can simply decide among themselves when to go. But a city where only 25% of the cars are self-driving is still tied to comparatively ancient technology. It will take a while to reach that point, but the cost of adopting self-driving technology happens before any of those benefits are realized.
+
+Any pragmatic actor considering the costs becomes skeptical of the immediate benefits. Incentives for adopting self-driving cars simple are not worth it currently. The cost is too much for the tenuous promise of some future, potential benefit.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

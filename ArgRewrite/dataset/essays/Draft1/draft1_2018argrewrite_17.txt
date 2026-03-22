@@ -1,0 +1,16 @@
+Self driving cars may seem too futuristic to believe, but they have become a reality.
+They are a symbol of technological advancement we have been able to achieve. They bring with them the hope of increased road safety and awareness. When they become a reality they will improve upon the transportation transportation industry in efficiency and lower costs. Although the huge benefits, self driving cars are still far from reality to be commercialized. They come with huge costs to bear in terms of equipment. The amount of personal information stored in them might make a few people uncomfortable. As well as, self-driving cars will not be able to perform without their sensors in extreme climate conditions.
+
+While there is a lot of skepticism involving self driving cars, I think they will improve road safety and help with accessibility around the United States.
+
+Self-driving cars use highly sophisticated algorithms which calculate appropriate stopping distance and time, this decreases the probability of accidents. We are surrounded by numerous distractions inside the car, such as texting, talking to passengers and sometimes falling asleep at the wheel, all these factors are taken out of the picture once we introduce driverless cars.
+
+We are increase accessibility of reliable and safe transportation to senior citizens and disable drivers with self driving cars. And large cities who lack infrastructure to provide its masses can take advantage of this technology and deploy these cars to remotely connected areas. These cars could also be used to drive around the clock to eliminate the human factor of fatigue.
+
+Self driving cars will decrease cases of road rages and drunk driving incidents, this will allow the police to efficiently use their time in other important cases. As the self driving cars would be electric, this will help reduce pollution caused and would increase efficient usage of power.
+
+There would be less requirement of parking spaces as the cars can drop off people at their destinations and park some place far away. This would also decrease congestion due to parking on the roads.
+
+While designing systems, we always look for an easy interactive system design so that we make full use of the underlying technology and self-driving cars can be no exception to that. Developers of self-driving cars will have mind the compatibility and experience of driving a normal car and design to car to eliminate concerns about extra-special training to handle self driving cars. 
+
+The cost of constructing a self driving car right now seems considerably high, but as computational costs are going down and with government initiatives, incredible technology can be introduced to local masses.

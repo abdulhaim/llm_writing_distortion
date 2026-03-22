@@ -1,0 +1,36 @@
+{
+    "reduced_categories": [
+        "Clarity",
+        "Novelty",
+        "Computational Efficiency",
+        "Baselines and Comparisons",
+        "Scope and Generalizability",
+        "Bias and Fairness",
+        "Practical Relevance",
+        "Theoretical Justification",
+        "Experimental Rigor",
+        "Reproducibility",
+        "Assumptions and Dependencies",
+        "Writing and Presentation",
+        "Methodology Detail",
+        "Complexity",
+        "Evaluation Metrics"
+    ],
+    "definitions": {
+        "Clarity": "How clear and understandable the paper is, including detail and coherence.",
+        "Novelty": "The originality and innovativeness of the research.",
+        "Computational Efficiency": "The computational cost and scalability of the proposed methods.",
+        "Baselines and Comparisons": "Adequacy of baseline models and comparison with prior work.",
+        "Scope and Generalizability": "The ability of the findings to generalize beyond the specific experiments conducted.",
+        "Bias and Fairness": "Consideration of potential biases in evaluation or methodology.",
+        "Practical Relevance": "Applicability and impact of the research in real-world scenarios.",
+        "Theoretical Justification": "Soundness and robustness of the theoretical motivation and assumptions.",
+        "Experimental Rigor": "The quality, depth, and thoroughness of experimental validation.",
+        "Reproducibility": "Clarity and detail sufficient for others to replicate the study.",
+        "Assumptions and Dependencies": "Dependence on specific assumptions and their validity.",
+        "Writing and Presentation": "The quality of the writing and organization of the paper.",
+        "Methodology Detail": "Depth and clarity of the methodological explanation.",
+        "Complexity": "Appropriateness of the complexity of the methods used.",
+        "Evaluation Metrics": "Appropriateness and robustness of the metrics used for evaluation."
+    }
+}

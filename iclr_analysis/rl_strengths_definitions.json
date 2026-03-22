@@ -1,0 +1,36 @@
+{
+    "reduced_categories": [
+        "Novelty",
+        "Clarity",
+        "Methodological Soundness",
+        "Theoretical Foundation",
+        "Practical Relevance",
+        "Experimental Rigor",
+        "Innovation",
+        "Robustness",
+        "Thorough Evaluation",
+        "Significance",
+        "Framework and Design",
+        "Real-World Applications",
+        "Technical Depth",
+        "Comprehensive Analysis",
+        "Relevance and Impact"
+    ],
+    "definitions": {
+        "Novelty": "The originality and innovativeness of the research approach or solutions.",
+        "Clarity": "How clear, organized, and understandable the writing and presentation are.",
+        "Methodological Soundness": "The correctness and appropriateness of the methods used.",
+        "Theoretical Foundation": "The depth and strength of the theoretical basis underpinning the work.",
+        "Practical Relevance": "The importance and applicability of the research to real-world problems.",
+        "Experimental Rigor": "The thoroughness and reliability of the experiments and validations conducted.",
+        "Innovation": "The degree to which the research introduces new methodologies, ideas, or technologies.",
+        "Robustness": "The ability of the methods and results to hold under various conditions or assumptions.",
+        "Thorough Evaluation": "The extent to which the study includes comprehensive testing and validation.",
+        "Significance": "The impact or implications of the research findings on its field or industry.",
+        "Framework and Design": "The overall architecture and planning of the methodology and experiments.",
+        "Real-World Applications": "The potential for the research to be applied in practical, non-academic settings.",
+        "Technical Depth": "The complexity and sophistication of the technical aspects of the research.",
+        "Comprehensive Analysis": "The completeness and depth of the analysis and interpretation of data.",
+        "Relevance and Impact": "The extent to which the research addresses important and timely issues."
+    }
+}

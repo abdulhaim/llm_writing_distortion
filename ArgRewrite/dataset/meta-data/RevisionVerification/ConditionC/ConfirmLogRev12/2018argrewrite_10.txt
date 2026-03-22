@@ -1,0 +1,1 @@
+[{"key":"-1-5","type":"Claims/Ideas","location":7,"motivation":"Empty"},{"key":"6-7","type":"Word-Usage/Clarity","location":9,"motivation":"Empty"},{"key":"17-18","type":"Word-Usage/Clarity","location":22,"motivation":"Empty"},{"key":"19-20","type":"General Content Development","location":24,"motivation":"Empty"}]

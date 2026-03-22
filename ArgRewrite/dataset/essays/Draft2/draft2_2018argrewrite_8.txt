@@ -1,0 +1,38 @@
+The growth of technology and machines has been at its panache in the 21st century. Humans have found a way to automate every possible task using the availability of high computing power and sophisticated algorithms. Driving has been a passion for some and mundane task for others but can be considered an important skill to have. Recent improvements in road infrastructure has reduced the overall effort required in driving. Self-Driving cars can eliminate that mundane task of driving and can specifically help reduce the effort for taxi drivers for who pursue this as a job rather than a passion or a personal choice. However I do not strongly agree with the implementation of self-driving vehicles as that can have certain consequences which are not that necessary.
+
+Most of us millennial's these days start driving at an early age, growing worldwide economy, availability of cheaper cars have helped the gap and luxury to drive a car in recent time. Self-driving cars which can drastically reduce the effort required in driving can be beneficial to some but redundant to others. Born and raised in foothills of the great Himalayas, we never had the luxury of best of the infrastructure. Deadly Himalayan curves required a lot of concentration in driving, and it has been always been a challenge and will remain so to drive in such remote areas. Self-driving cars have been tested and performed exceptionally well in the United States, the country known for its infrastructure and cars which are also a symbol of personal freedom. Developed countries like the United States cannot be the ultimate testing ground for self-driving cars and we should concern tougher testing grounds for proper implementation. Also success of self-driving cars currently relies on accurate mapping systems through GPS and such accuracy is not yet available at every location possible. GPS are not very reliable to weather conditions and that indirectly relates to self-driving cars. Such technology relies heavily on the field known as machine learning and algorithms used to train such cars can still not give 100% accuracy and that can lead to major concerns in unwanted scenarios.
+
+Another major concern involving self-driving cars is that we still need humans who are capable to operate sophisticated technology.  Many individuals are still reluctant to use technology at its best and that is true for many people in their middle and old age.  Such nervousness to operate technology and hesitance to give control to a machine can lead to malfunction and can put the driver into even more dangerous situation.Even if we remove, above concerns, the cost involved in such implementation on large scale is tremendous and somewhat financially not feasible. The cost involved in implementation, the perfect road infrastructure surpass the expected utility of the complete program.
+
+Reduction in overall accidents, for which self-driving cars have been praised has been somewhat skeptical in recent times. We have seen many cases where self-driving cars have been part of accidents and they do not completely eliminate the problem. A simple malfunction in the machine can lead to major issues and it can be somewhat difficult for the human operator to understand this and can lead to major accidents within seconds due to lack of manual control. Himalayan roads where the driver has to showcase full concentration at every curve can turn out to be deadly for self-driving cars in case of any malfunction.
+
+In conclusion, self-driving vehicles can be great research idea but are exact real world implementation is limited due to multiple constraints like civil infrastructure, GPS availability, weather conditions, finances, and costs It is much easier to successfully implement such project in developed nations and in constrained environment but not feasible everywhere around the world. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

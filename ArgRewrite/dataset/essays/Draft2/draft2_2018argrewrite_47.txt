@@ -1,0 +1,38 @@
+The reading provides readers with several straightforward explanations in terms of the advantages and disadvantages of self-driving cars. The beneficial side introduces the higher possibility of lower accidents due to limited human errors by applying computer systems in cars, the time efficiency from the drivers' perspective, the convenience for disabled population, and the smoother traffic. However, the opposing side points out several serious issues, such as violation of privacy, unemployment, and inefficiency under severe weather. I hold the disagreement toward the pro-side and believe that self-driving cars may pose unavoidable threats with the overall well-being of the society. I construct my arguments from the stances of safety, privacy protection, and employment.
+
+To start with, it may be the fact that human errors, other than mechanical malfunctions, cause more frequent and severer accidents. But accidents triggered by mechanical malfunctions still exist. In particular, cars may contain mechanical defects by construction; in such a case, can a built-in computer system make a good driving decision? I highly doubt it. Without more information, we cannot simply assume that computer systems can take fully control of the vehicle and ensure 100% safety. Furthermore, drivers or passengers may still play an important role during the driving process, because people have to send commands to the computer system in the car. What if people make bad decisions or mistakes? How about individuals that push the system to perform personal choices that cause injuries or death toward people outside of the car? Accidents may still be possible under such contexts. An innovation as a self-driving car can bring challenging risks and potential dangers along the process which will definitely deteriorate the smooth function of the society.
+
+Second, computers in cars should acquire as much information as possible to optimize the efficiency and effectiveness of the driving decisions. That is to say, one car automatically collects information from all other cars nearby. A potential issue, privacy, should be thoroughly considered. For example, if criminals make full use of this function, they can escape from detection or police chase by flawlessly escaping with the help of a self-driving car built with advanced computer tracking system. In such a case, the privacy of police officers has been violated. What if police cars can override all the vehicles' computer systems? Will that be fair to citizens? Before these concerns can be satisfactorily solved, self-driving cars that can offer a disruptively innovative service for the society and its people, still have a long way to go. 
+
+Third, it could be a serious concern if the common profession, professional drivers, lose jobs if computer system is the only approved driver for all cars. Big structural changes will also be noticed at the relevant sectors including car insurance companies and traffic guiding jobs. And how should we deal with these dramatic changes when unemployment impairs the stability of the society? It is true that new skills can be trained and new supporting sectors will emerge, but that will take time, efforts, and costs. Public institutions and government have to get prepared for the transition for its people which can be time-consuming and has the possibility of an unsatisfied outcomes. It is indeed a risky business. 
+
+In summary, self-driving cars as a type of innovation potentially will promote the industrial, societal, and lifestyle changes. However, we cannot assume that any innovation can benefits the development of the society with no cost. Based on current technology and societal development, self-driving cars may not be as beneficial as supporters easily imagine. And we should be cautious for approving such changes in our society. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,16 @@
+Debates on self-driving cars have attracted attention from society as a whole. From my perspective, users' adoption and acceptance, safety and privacy concerns, and economic impacts on the society are top concerns.
+
+The self-driving car, ideally, can reduce accident rate on the road by overcoming the driving distraction problem. However, the actual performance will largely depend on the technology/algorithm. In addition, external factors including users' attitude towards automation and weather conditions are threats to self-driving experiences.
+
+On the other hand, the economic impacts of self-driving cars on the society is a double-sided sword. Improving efficiency and reducing cost indicate many jobs in the
+transportation sector will be eliminated. How can we design training programs to help low-income group (for example, taxi drivers) to develop new skills and rebuild their lives. 
+
+Overall, I support to invest more resource in developing self-driving vehicles. 
+
+Self-driving is not a recent concept. In fact, we are already enjoying the benefits from 'self-driving'. For example, Volvo cars can automatically stop if pedestrians are detected within a risky distance in front of the vehicle and the driver fail to react in time. Generally, there are five levels of self-driving cars, with automation level increased. The top level is fully-responsible self-driving cars, which is the mass impressions or imaginations on the self-driving. Whether we can achieve that goal is not clear. However, investing resource in building more intelligent and driver-friendly techniques are no doubt beneficial.
+
+Besides allocating resource in researching the single-car based technologies, constructing a vehicle network system adds a significant value to our society. Specifically, real-time information traffics and road risks can be swiftly distributed to the whole network. In this way, cars with "intelligence" can calculate the equilibrium and provide personalized navigations based on all the information collecting from passengers, road, and weather. In order to develop such a communication system, the intelligence level of end-cars is essential. The radars, sensors, and software systems need to be designed as a team to process and transfer data within the car, and within the whole system.
+
+When it comes to end-users or consumers, I do not think adoption aversion will be a big obstacle. First, as stated above, using self-driving cars is not a binary choice. Instead, consumers choose which level of self-driving they want to use, to increase their driving experiences. Second, human-based service is costly, whereas a machine-based service is economically efficient. For instance, we used to have to pay a consultant for tax reporting. Yet, we can now use various software to help us. Back to the case of the self-driving car, people can choose to hire a personal driver or taxi driver or choose to use a self-driving service. 
+
+To sum up, self-driving services are already embedded in our driving experience. We are enjoying and will continue to enjoy the benefits brought by the development of technology. 

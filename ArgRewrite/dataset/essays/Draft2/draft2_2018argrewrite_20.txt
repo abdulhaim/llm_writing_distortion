@@ -1,0 +1,34 @@
+As with any new invention, there is both major benefits that make the research and development worthwhile and equally major concerns that come from unknown consequences. With companies such as Google investing substantial sums of money into the research and development of self-driving cars, it's apparent that enough people see the benefits eventually outweighing the cost. The potential benefits mentioned in the article are significant: reduction of distracted driving, more time for other activities while in the car, and travel efficiency. However, all of those stated benefits assume that the car would be in control 100% of the time, which is not realistic. Operators need to be aware and prepared to take control in the event of an emergency. Without more conversation about the education that drivers would need to have to successfully operate self-driving cars and more research into privacy and safety, driver-less cars will not be as beneficial as some might think.
+
+Though an article in Auto Insurance Center, "Top 20 Pros and Cons Associated with Self-Driving Cars," lists not needing to get a specialized driving license as an advantage of self-driving cars, that license should really still be necessary. As discussed in the "cons" section, other sources including Teletrac note that drivers would still have to be trained in how to properly operate the vehicle. Further, if a potential benefit is, as mentioned in the article, that people who can't normally operate cars, such as those who are disabled, elderly, or intoxicated, the fact remains that even if trained on how to properly operate a self-driving car, these individuals may not have the physical or mental capacity to manually drive the vehicle in the event that a sensor or other technological failure requires immediate human intervention. The article also makes the point that over-relying on the technology could mean that drivers would no longer have the skills to over-ride the system and manually control the vehicle in the event of a failure. Thus, self-driving cars actually require more education: both standard self-driving car operating procedures as well as regular driving training.
+
+Increased education may be a mediator of the potential advantages and dangers, but ultimately self-driving cars is a misleading name, as an operator would always have to step in should a system fail or an unexpected road condition. Therefore, all stated benefits have their limits, since drivers will need to be paying enough attention to take over in an instant in an emergency situation.
+
+However, even if operators were given even more education and able to enjoy the benefits to some degree, there remains safety and privacy concerns. The article mentions a potential problem noted by many sources, including the Guardian: hacking. In 2016, seemingly harmless internet connected devices such as refrigerators and baby monitors were used to bring down major websites such as Twitter and Amazon. If that large scale of an attack can happen with simple devices, there is obvious reason for concern about having a car connected to the Internet in a similar way. In addition to personal safety concerns, the car would have a plethora of personal data on where the operators go and when. The article supports this by saying that people are "concerned about the opportunity for a computer build into the self-driving car to collect personal data." 
+
+Self-driving cars have many benefits, but alert, educated operators would still have to be ready to take over in an emergency. With the addition of personal safety and privacy concerns, it's clear that the technology to protect citizens has not caught up with the technology of the self-driving cars.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

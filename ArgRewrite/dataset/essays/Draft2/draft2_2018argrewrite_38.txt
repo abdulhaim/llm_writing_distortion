@@ -1,0 +1,35 @@
+Society remains divided on the issue of self-driving cars. Proponents believe the cars should reduce accidents, free up drivers’ time, and make obsolete the need for detailed knowledge of driving, thus allowing people who could never use cars alone in the past (like the disabled and elderly) more freedom. Meanwhile, others see more problems. Computers would not make decisions and adapt in the same manner as attentive human drivers, would provide more security risks, and would present a large potential for vehicle failure. I side with this latter group, and my main reasoning is that computers do not have as high an understanding of the world around them as humans.
+
+I actually have firsthand experience with a car that thinks it knows how to drive better than a human. In April my parents and I were in Florida visiting my grandparents. We had a rental car and my father was driving on the highway. A car in front of us was going far below the speed limit, so he punched the accelerator in order to pass it. The rental car’s computer determined that he must have meant to hit the brakes and hit the accelerator by mistake. So, the car suddenly locked up on the busy highway and stopped, causing all passengers to be thrown forward and the car behind us to nearly rear-end us. There was no human error involved here. No distracted driving. This “feature” is just a taste of what interacting with entirely self-driving cars would be like.
+
+Autonomous vehicles pose even more risks when we move beyond considering bad software that only influences how the car interacts with the driver, and begin to think about security and how the computer handles driving in varying environmental conditions and around other drivers. According to the Guardian, self-driving cars’ computers would be targets for hackers. There are so many situations where a self-driving car could be led to cause accidents, especially if the human behind the wheel has never learned to drive or is too distracted or trusting in the vehicle’s technology to intervene. A simple idea is that a hacker can encourage the cars to engage in a platooning pattern (where the cars line up closely behind each other like train cars), at which point the cars would be like a line of little ducklings ready to do the bidding of Mother Duck, leading them off the road or suddenly slamming on the brakes when the cars are very close and traveling at high speeds.
+
+Many proponents of self-driving cars act on the assumption that vehicle computers have an understanding of the environment around them, and in fact would be even more aware than a distracted human would be. Sure, if they have the right sensors they can calculate the speeds of nearby cars, and they probably would monitor weather conditions and other environmental hazards. But in terms of anticipating the behavior of other drivers, they fall short. When I drive, I can look at other vehicles and anticipate their behavior. This driver is turned around looking at their kid in the backseat. This person’s truck has tree branches in the back that aren’t tied down. This person’s car has been rear-ended several times and the bumper is being held on with duct tape. Each of these pieces of information influences what I expect the driver to act like. A computer isn’t going to look at its surroundings and judge everything like this. As such, a computer will not be as well-informed or adaptive as humans, because we will never be able to anticipate all the different types of drivers that the computer would need to be ready to judge.
+
+Overall, much of the discrepancy between human- and self-driven cars is due to the fact that computers are not endowed with the ability to be truly conscious and can be easily mislead or misinformed. To me, the negatives and dangers that we know for certain will happen with a self-driving car far outweigh the possible and hypothetical benefits.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

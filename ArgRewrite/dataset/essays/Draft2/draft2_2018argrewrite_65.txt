@@ -1,0 +1,38 @@
+With the ever-increasing number road accidents, there has been a push towards developing a technology that is safer and can make accidents less likely. Since most of the accidents are caused due to distracted driving, technologists are driven to develop self-driving cars. However, it is still not certain whether self-driving cars are really that beneficial to society.
+
+Self-driving cars offer a lot of freedom to the drivers to do other tasks while commuting. Drunk-driving will be a past. Disabled people will not have to depend on anyone else to commute. Owing to their platooning behaviour and complex algorithms to control the distance between two cars, it is believed that self-driving cars will reduce the occurrence of road accidents. Although self-driving cars offer so many advantages, there are numerous disadvantages as well. With the new self-driving technology, unemployment rates will rise, the gasoline industry will be hit. These cars are very expensive. There are high chances of technology failure and thus it is not guaranteed that self-driving cars will be safer.
+
+In my opinion, self-driving cars, in general, will not be so beneficial for society. Although there are some reasons why we would encourage this technology like making the life of commuters very easy by reducing the commute time, allowing them to do other important tasks while travelling, reducing their dependability on others or public transport, reducing efforts to learn driving, reducing the need for parking spaces, etc. There are numerous reasons why we shouldn't. 
+
+One main reason that makes self-driving cars unsafe is the unforeseen failure of technology. Self-driving cars work completely on computer technology, sensors and GPS tracking. In a situation of technical failure, there is a high risk for accidents to occur. Technical failure includes but not limited to the sensors not functioning or no internet connectivity etc. Non-functioning sensors will not signal the car to stop in the presence of an obstacle. This might lead to a huge accident especially when the car is at a high speed.
+Also, the GPS is not always accurate. For example, in a city named Pittsburgh, there are numerous GPS trackers on staircases which are detected as the shortest route. If your car follows the shortest path shown by GPS, it might lead to an accident. Unless the computer knows about the presence of such pseudo roads, you will not be able to avoid this situation. Thus we can see that with all such instances, self-driven cars are not as safe as they are expected to be.
+
+Another reason why I would not encourage this technology is that self-driven cars will lead to a sharp drop in employment rates. People with self-driving cars would not travel in taxis. Thus taxi-drivers will lose their source of income. Since people will not need to learn driving, driving educators will lose their job. The oil and gas industry will be hit since most of these cars are likely to be electric. This will have a tremendous negative effect on the economy.
+
+Thus, in my opinion, self-driven cars will not be a boon to the society. This technology is not the exact solution to reduce road accidents. Technologists will have to look for better options or improvements to self-driving technology in order to achieve their goal to make road commute more safer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

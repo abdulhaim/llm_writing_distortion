@@ -1,0 +1,21 @@
+strengths,weaknesses,review_id,submission_id,editlens_prediction
+"['Neat ideas', 'Strong baselines', 'Well-written']","['Lacks experimental rigor', 'Misleading claims', 'Evaluation restrictions']",kYZp8BWy6F,ilPTK1CzBp,Heavily AI-edited
+"['Well-written', 'Improves accuracy', 'Thorough literature placement']","['Limited comparison', 'Dataset size', 'Model limitations']",LLlIdY6Tv1,WyyawATBhs,Fully human-written
+"['Universal distillation', 'Improves performance', 'Linear complexity']","['Lacks support', 'Generalizability questions']",oe9UAqL57h,Dud8FtScW7,Fully AI-generated
+"['Scientific study', 'Decontamination insight', 'Benchmark-specific']","['Outdated models', 'No guidance', 'Domain gap insight']",pJGJfZwmUM,bZBJFrxH1H,Fully human-written
+"['Practical goal', 'Novel framework', 'Strong results']","['Ambiguous claims', 'Clarity issues', 'Weak D-PaDe support']",6KpwQAcJuU,jn1fUQ5KN6,Fully AI-generated
+"['Multiple setups', 'Reproducibility', 'Insightful analysis']","['Safety vs utility', 'Unclear degradation', 'Lacks investigation']",96hp0DYUFR,YzkY4RR1nG,Fully AI-generated
+"['Clear writing', 'Good motivation', 'Empirical results']","['Lacks theoretical analysis', 'Training speed dependence']",xZXrfBJCHf,YzkY4RR1nG,Fully human-written
+"['Interesting approach', 'Effective experimentation', 'Global info analysis']","['Limited datasets', 'Structure improvements', 'Lacks theoretical analysis']",xEATEnyb3g,W8VCH9x1HZ,Fully AI-generated
+"['Easy to follow', 'Simple method', 'Improved performance']","['Limited novelty', 'Data management', 'Old baselines']",pBGqJUVy9j,e5tepxQfE1,Fully AI-generated
+"['Well-motivated', 'Versatility', 'Promising results']","['Missing strong baselines', 'Unfair comparisons', 'Technical contribution']",BeK3VNYzPS,W8VCH9x1HZ,Lightly AI-edited
+"['Clear organization', 'Good experiments', 'Comprehensive study']","['Lacks related work discussion', 'Privacy protection', 'RL stability']",Vr8hJjsdFV,Qlk5I6TI2D,Fully AI-generated
+"['Clear writing', 'Intuitive idea', 'Strong results']","['Reward hacking risk', 'GRPO justification', 'Efficiency comparison']",KjhMZvYljb,n4Er2o4BFB,Lightly AI-edited
+"['Well-written', 'Theoretical support', 'Elegant diagram']","['Hyper-parameter tuning', 'Weak experiments', 'Need analyses']",mvAaRP12D3,cS2zLrJ3qN,Fully AI-generated
+"['Addresses FedRec issues', 'RL adaptation', 'Consistent gains']","['Outdated baseline', 'Lacks privacy analysis', 'RL costs unexplored']",C5Gv18N48Y,2EvMmC23sC,Fully AI-generated
+"['Appreciates hypernetworks', 'Readable', 'Systematic presentation']","['Motivation unclear', 'Lacks novelty', 'Insufficient experiments']",Pm5Q34Pj5w,DJ8rO7buwO,Fully AI-generated
+"['Effective CAD integration', 'Edge deployment', 'Robustness']","['Success rate', 'Latency breakdown', 'Map representation']",v0pDXPNwjJ,rkIw2GqYEt,Moderately AI-edited
+"['Intuitive criterion', 'Accuracy gains', 'Practical method']","['Limited novelty', 'Performance driver unclear', 'Restricted domain consideration']",ZrYWF2a7Od,W8VCH9x1HZ,Fully human-written
+"['Solid idea', 'Predictive factors', 'Comprehensive experiments']","['Lacks ablation', 'Overstated claims', 'Kernel choice unexplored']",Pyg16QfhK4,UrGsJphPnJ,Fully AI-generated
+"['Solid model', 'Well-structured math', 'Broad application']","['Main objective unclear', 'Lacks comparisons', 'Foundation model excluded']",wX57FPXVH5,vsLZPkKCAB,Fully human-written
+"['Robustness focus', 'Simple method', 'Extensive testing']","['Dense paper', 'Critical function undefined', 'Training condition unclear']",5VE9a4rsx1,ilPTK1CzBp,Fully AI-generated
